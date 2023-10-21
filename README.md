@@ -22,11 +22,11 @@ I am a passionate data analyst with a strong desire to explore and extract insig
 
 📧 **Contact**: ganeshkumarg1311@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/ganeshkumar-gopalakrishnan](https://eportfolio.mygreatlearning.com/ganeshkumar-gopalakrishnan)
+👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/ganeshkumar-gopalakrishnan](https://eportfolio.mygreatlearning.com/ganeshkumar-gopalakrishnan)
 
-- 💬 Ask me about **Excel, Python, SQL and Tableau**
+💬 Ask me about **Excel, Python, SQL and Tableau**
 
-- ⚡ Fun fact **I am funny**
+⚡ Fun fact **I am funny**
 
 Let's transform data into meaningful insights and drive informed decisions. If you have a project idea or just want to chat about data, reach out – I'm always excited to connect!
 
